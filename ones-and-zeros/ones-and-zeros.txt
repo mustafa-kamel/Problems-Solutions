@@ -1,0 +1,6 @@
+Fin any consecutive ones and zeros that presents a symmetric string
+according to the following rules:
+
+1- Ones and zeros must be consecutive
+2- Count of ones must be the same as zeros
+(i.e. 0110, 1100)
