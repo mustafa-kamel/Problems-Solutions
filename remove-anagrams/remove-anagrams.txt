@@ -1,0 +1,3 @@
+The probelm is to remove the anagrams from the input list and return an array of listed strings
+Sample input is a list of strings which has anagrams
+Output is a list of strings after removing the duplicates and sorting it
